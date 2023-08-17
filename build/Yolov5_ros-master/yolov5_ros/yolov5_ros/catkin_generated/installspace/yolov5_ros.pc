@@ -1,0 +1,8 @@
+prefix=/home/amov/yolov5_ros/install
+
+Name: yolov5_ros
+Description: Description of yolov5_ros
+Version: 1.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

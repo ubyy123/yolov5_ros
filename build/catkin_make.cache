@@ -1,0 +1,2 @@
+Yolov5_ros-master/yolov5_ros/message:Yolov5_ros-master/yolov5_ros/yolov5_ros:Yolov5_ros-master/yolov5_ros/yolov5_ros_msgs
+-DCATKIN_DEVEL_PREFIX=/home/amov/yolov5_ros/devel -DCMAKE_INSTALL_PREFIX=/home/amov/yolov5_ros/install -G Unix Makefiles

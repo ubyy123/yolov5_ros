@@ -1,0 +1,48 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/amov/yolov5_ros/devel/include/**",
+        "/home/amov/catki_ws/devel/include/**",
+        "/home/amov/Prometheus/devel/include/**",
+        "/home/amov/prometheus_mavros/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/amov/Prometheus/Modules/ego_planner_swarm/bspline_opt/include/**",
+        "/home/amov/catki_ws/src/yolov3_test/catkin_workspace/src/darknet_ros/darknet_ros/include/**",
+        "/home/amov/Prometheus/Modules/ego_planner_swarm/drone_detect/include/**",
+        "/home/amov/Prometheus/Modules/ego_planner_swarm/plan_manage/include/**",
+        "/home/amov/prometheus_mavros/src/mavros/libmavconn/include/**",
+        "/home/amov/prometheus_mavros/src/mavros/mavros/include/**",
+        "/home/amov/prometheus_mavros/src/mavros/mavros_msgs/include/**",
+        "/home/amov/Prometheus/Modules/motion_planning/min_snap_trajectory/min_snap/include/**",
+        "/home/amov/Prometheus/Modules/motion_planning/min_snap_trajectory/traj_utils/include/**",
+        "/home/amov/Prometheus/Modules/motion_planning/min_snap_trajectory/uav_simulator/Utils/multi_map_server/include/**",
+        "/home/amov/Prometheus/Modules/motion_planning/min_snap_trajectory/uav_simulator/my_visualization/include/**",
+        "/home/amov/Prometheus/Modules/ego_planner_swarm/path_searching/include/**",
+        "/home/amov/Prometheus/Modules/ego_planner_swarm/plan_env/include/**",
+        "/home/amov/Prometheus/Modules/motion_planning/min_snap_trajectory/uav_simulator/Utils/pose_utils/include/**",
+        "/home/amov/Prometheus/Simulator/gazebo_simulator/include/**",
+        "/home/amov/Prometheus/Modules/motion_planning/global_planner/include/**",
+        "/home/amov/Prometheus/Modules/motion_planning/local_planner/include/**",
+        "/home/amov/Prometheus/Modules/simulator_utils/include/**",
+        "/home/amov/Prometheus/Modules/uav_control/include/**",
+        "/home/amov/Prometheus/Modules/motion_planning/min_snap_trajectory/uav_simulator/so3_control/include/**",
+        "/home/amov/Prometheus/Modules/motion_planning/min_snap_trajectory/uav_simulator/so3_quadrotor_simulator/include/**",
+        "/home/amov/prometheus_mavros/src/mavros/test_mavros/include/**",
+        "/home/amov/Prometheus/Modules/ego_planner_swarm/traj_utils/include/**",
+        "/home/amov/Prometheus/Modules/motion_planning/min_snap_trajectory/uav_simulator/Utils/uav_utils/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
